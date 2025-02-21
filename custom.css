@@ -1,0 +1,35 @@
+/* custom.css */
+body {
+    background-color: #1e1e1e; /* Dark background */
+    color: #ffffff; /* Light text color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff; /* Headings color */
+}
+
+a {
+    color: #61dafb; /* Link color */
+}
+
+a:hover {
+    color: #21a1f1; /* Link hover color */
+}
+
+pre, code {
+    background-color: #2e2e2e; /* Code block background */
+    color: #ffffff; /* Code text color */
+}
+
+/* Additional styles for tables, lists, etc. */
+table {
+    background-color: #2e2e2e;
+    border: 1px solid #444;
+}
+
+th, td {
+    border: 1px solid #444;
+    padding: 8px;
+}
+
+/* Add more styles as needed */
